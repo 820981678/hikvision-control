@@ -2,7 +2,7 @@
 本demo主要实现hikvision网络摄像机的登录、云台旋转控制、实时图片截取功能。
 
 ##库文件安装
-将src-lib文件夹中的文件拷贝到系统的库文件目录，windows7目录如下：
+将src-dll文件夹中的文件拷贝到系统的库文件目录，windows7目录如下：
 ```
 C:\Windows\System32
 ```
